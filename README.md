@@ -43,7 +43,6 @@
 
 ## Bitcoin & Crypto Festivals
 
-  - [Bitcoin FilmFest 🐰🎬](https://bitcoinfilmfest.com/) - Annual Bitcoin-only film festival exploring financial freedom and peer-to-peer networks through cinema. June 4-7, Warsaw, Poland.
   - [Awesome Bitcoin Events 📅](https://github.com/itstomekk/awesome-bitcoin-events) - Community-maintained calendar of international Bitcoin conferences, meetups, retreats, and festivals.
 
 ## License
